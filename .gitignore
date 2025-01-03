@@ -4,5 +4,6 @@ __pycache__/
 *.pyd
 data/raw/*
 data/processed/*
-repo_structure.py
+setup/*
 submission/*
+kaggle_env/
