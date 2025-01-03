@@ -45,7 +45,7 @@ The key functionality includes:
    git clone https://github.com/yourusername/price-optimization.git
    cd price-optimization    
    ```
-   
+
 2. Create a virtual environment (optional but recommended):    
     ```bash
     python3 -m venv venv
@@ -57,7 +57,6 @@ The key functionality includes:
     ```
 
 ## File Structure
-    ```bash
 
     price-optimization/
     │
@@ -79,7 +78,6 @@ The key functionality includes:
     │
     ├── requirements.txt
     └── README.md
-```
 
 ## Contribution
 Feel free to fork this repository and contribute! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
