@@ -1,0 +1,5 @@
+price_column: unit_price
+quantity_column: qty
+interaction_term: unit_price * product_category_name
+
+price_change_range: 0.1

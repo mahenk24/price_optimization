@@ -2,3 +2,6 @@ kagglehub
 pandas
 seaborn
 ipykernel
+statsmodels
+PyYAML
+sklearn
