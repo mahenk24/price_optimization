@@ -43,5 +43,48 @@ The key functionality includes:
 
    ```bash
    git clone https://github.com/yourusername/price-optimization.git
-   cd price-optimization
+   cd price-optimization    
+   ```
+   
+2. Create a virtual environment (optional but recommended):    
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
+3. Install required dependencies:    
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## File Structure
+    ```bash
+
+    price-optimization/
+    │
+    ├── src/
+    │   ├── exploratory.py
+    │   ├── econometric_model.py
+    │   └── optimization.py
+    │
+    ├── conf/
+    │   └── parameters.yaml
+    │
+    ├── notebooks/
+    │   ├── modeling.ipynb
+    │   └── optimize.ipynb
+    │
+    ├── data/
+    │   ├── raw/
+    │   └── processed/
+    │
+    ├── requirements.txt
+    └── README.md
+```
+
+## Contribution
+Feel free to fork this repository and contribute! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
