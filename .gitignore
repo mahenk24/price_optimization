@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+data/raw/*
+data/processed/*
+repo_structure.py
