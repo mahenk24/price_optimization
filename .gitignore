@@ -7,4 +7,4 @@ data/processed/*
 setup/*
 submission/*
 kaggle_env/
-!modelling.ipynb
+!modeling.ipynb
